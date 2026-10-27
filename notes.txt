@@ -1,3 +1,4 @@
 In this course, I want to learn how to use Git and GitHub.
 I want to understand how to manage different versions of my projects.
 I also want to improve my programming skills.
+I also want to learn how to collaborate with other developers using GitHub.
