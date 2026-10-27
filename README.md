@@ -28,3 +28,7 @@ git status
 | git init | Create a repository |
 | git status | Check file status |
 | git add | Stage changes |
+## What I Have Learned
+
+I have learned how to create a GitHub repository and record changes using commits.
+I also learned how to write documentation using Markdown.
